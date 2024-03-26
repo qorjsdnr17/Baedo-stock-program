@@ -36,7 +36,7 @@
    주식 데이터베이스를 관리하고 주식 시장의 상태를 조회합니다.
    주식 거래에 필요한 주문 관리, 포트폴리오 관리 및 사용자 인증과 관련된 기능을 구현합니다.
 
-   <div>서버 (Node.js): <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"/></div>
+   <div>서버: <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"/></div>
    Node.js를 사용하여 클라이언트와 서버 간의 통신을 관리합니다.
    주식 시세 업데이트 및 실시간 데이터 전송을 처리합니다.
 
