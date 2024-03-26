@@ -31,14 +31,12 @@
    주식 가격과 관련된 정보를 보여주는 대시보드를 구현합니다.
    주식 거래를 위한 주문 화면 및 포트폴리오 관리 화면을 디자인합니다.
 
-   백엔드:  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=Spring&logoColor=white"/>, <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/>, <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"/>
-
+   <div>백엔드: <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=Spring&logoColor=white"/>, <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/></div>
    Spring Boot를 사용하여 RESTful API를 개발합니다.
    주식 데이터베이스를 관리하고 주식 시장의 상태를 조회합니다.
    주식 거래에 필요한 주문 관리, 포트폴리오 관리 및 사용자 인증과 관련된 기능을 구현합니다.
 
-   서버 (Node.js):
-
+   <div>서버 (Node.js): <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"/></div>
    Node.js를 사용하여 클라이언트와 서버 간의 통신을 관리합니다.
    주식 시세 업데이트 및 실시간 데이터 전송을 처리합니다.
 
