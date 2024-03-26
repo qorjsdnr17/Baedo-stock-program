@@ -25,7 +25,7 @@
 
 
 <h1>2. 기술 스택 선택 💻</h1>
-    프론트엔드:<img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
+     <div>프론트엔드: <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB"/> </div>
 
    React를 사용하여 사용자 인터페이스를 개발합니다.
    주식 가격과 관련된 정보를 보여주는 대시보드를 구현합니다.
