@@ -25,13 +25,13 @@
 
 
 <h1>2. 기술 스택 선택 💻</h1>
-    프론트엔드: React
+    프론트엔드:    <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
 
    React를 사용하여 사용자 인터페이스를 개발합니다.
    주식 가격과 관련된 정보를 보여주는 대시보드를 구현합니다.
    주식 거래를 위한 주문 화면 및 포트폴리오 관리 화면을 디자인합니다.
 
-   백엔드: Node.js, Java(Spring Boot)
+   백엔드:  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=Spring&logoColor=white"/>, <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/>, <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"/>
 
    Spring Boot를 사용하여 RESTful API를 개발합니다.
    주식 데이터베이스를 관리하고 주식 시장의 상태를 조회합니다.
